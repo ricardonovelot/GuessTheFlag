@@ -1,12 +1,12 @@
-# Guess The Flag - SwiftUI Day 20 Challenge
+# Guess The Flag 
 
 <table>
 <tr>
 <td>
 
-## About the Project
+## About
 
-"Guess The Flag" is a delightful SwiftUI app that challenges users to identify flags from different countries. Developed as part of the Day 20 challenge in the "Hacking with Swift" course, this project covers fundamental SwiftUI concepts, including the use of stacks, images, gradients, buttons, and alert messages. The game keeps track of the user's score, providing an interactive and engaging experience.
+Guess The Flag challenges users to identify flags from different countries.
 
 ### Features
 
