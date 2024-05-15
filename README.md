@@ -1,4 +1,4 @@
-# Guess The Flag 
+# GuessTheFlag 
 
 <table>
 <tr>
