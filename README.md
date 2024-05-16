@@ -23,7 +23,7 @@ This project introduces core SwiftUI concepts, including:
 </td>
 <td>
 
-<img src="https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/e237c6ac-cfc0-4875-8cf2-3636e504adc6" width="300">
+<img src="https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/e237c6ac-cfc0-4875-8cf2-3636e504adc6" width="600">
 
 </td>
 </tr>
