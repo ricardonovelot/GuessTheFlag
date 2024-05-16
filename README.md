@@ -18,7 +18,8 @@ Guess The Flag challenges users to identify flags from different countries.
 
 ### Technical Highlights
 
-- VoiceOver Accessibility
+- Voiceover Optimization
+- Animations
 - Alerts
 
 </td>
