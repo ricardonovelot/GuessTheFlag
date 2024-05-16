@@ -17,9 +17,8 @@ Guess The Flag challenges users to identify flags from different countries.
 ### Learning Highlights
 
 This project introduces core SwiftUI concepts, including:
-- **Button Interactivity:** Implements interactive buttons for user input, with dynamic effects on correct and incorrect answers.
-- **Alert Messages:** Displays alert messages to provide feedback on user performance.
-- **Colors and Gradients:** Utilizes LinearGradient to create visually appealing color gradients for the background.
+- **Accessibility**
+- **Alerts**
 
 </td>
 <td>
