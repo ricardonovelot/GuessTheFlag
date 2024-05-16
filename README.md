@@ -23,7 +23,7 @@ This project introduces core SwiftUI concepts, including:
 </td>
 <td>
 
-![Guess The Flag App Demo](https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/d12abbd2-581b-403f-b7cb-b6e6e3f5e833)
+<img src="https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/e237c6ac-cfc0-4875-8cf2-3636e504adc6" width="300">
 
 </td>
 </tr>
