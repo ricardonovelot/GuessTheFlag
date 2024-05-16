@@ -50,7 +50,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 <tr>
 <h2>Interactive Preview</h2>
 <td width="5000" align="center">
-<video src="https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/Accessibility" width="300" controls>
+<video src="https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/Accessibility" width="300" controls title="Accessibility">
 </tr>
 </td>
 </table>
