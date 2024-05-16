@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td>
+<td valign="top">
 
 ## About
 
@@ -40,4 +40,17 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 </td>
 </tr>
+</table>
+
+
+
+
+
+<table>
+<tr>
+<h2>Interactive Preview</h2>
+<td width="5000" align="center">
+<img src="https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/6c92948f-7d64-44bc-9314-a867d48217de" width="300" >
+</tr>
+</td>
 </table>
