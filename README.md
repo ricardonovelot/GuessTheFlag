@@ -17,8 +17,8 @@ Guess The Flag challenges users to identify flags from different countries.
 ### Learning Highlights
 
 This project introduces core SwiftUI concepts, including:
-- **Accessibility**
-- **Alerts**
+- VoiceOver Accessibility
+- Alerts
 
 </td>
 <td>
