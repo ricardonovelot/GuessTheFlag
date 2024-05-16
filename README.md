@@ -14,7 +14,7 @@ Guess The Flag challenges users to identify flags from different countries.
 - **Responsive Design:** Consistent and adaptive user interface.
 - **Dynamic UI Effects:** Animations, rotations, and scaling for interactive gameplay.
 
-### Learning Highlights
+### Technical Highlights
 
 - VoiceOver Accessibility
 - Alerts
