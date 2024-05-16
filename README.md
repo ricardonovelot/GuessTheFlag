@@ -50,12 +50,12 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 Turn on sound
 </td>
 <td width="2500" align="center">
-<video src="https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/0f2c7ec5-8225-434d-a1ec-71271ca549be" width="300" controls title="Accessibility"></video>
+<video src="https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/d777d56b-ea83-4124-88e0-f2aa49acd74d" width="300" controls title="Accessibility"></video>
 <br>
-Gameplay
 </td>
 </tr>
 </table>
+
 
 
 
