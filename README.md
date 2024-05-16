@@ -51,11 +51,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 <h2>Interactive Preview</h2>
 <td width="5000" align="center">
 <video src="https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/6c92948f-7d64-44bc-9314-a867d48217de" width="300" controls>
-  Accessibility
-</video>
 </tr>
 </td>
 </table>
-
-
-<a href="https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/6c92948f-7d64-44bc-9314-a867d48217de" title="Link Title"><img src="" alt="Alternate Text" /></a>
