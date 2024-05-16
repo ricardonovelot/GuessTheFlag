@@ -10,13 +10,12 @@ Guess The Flag challenges users to identify flags from different countries.
 
 ### Features
 
-- **Score Tracking:** Keeps track of the user's score and displays it throughout the game.
-- **Responsive Design:** Utilizes SwiftUI's layout capabilities for a consistent and adaptive user interface.
-- **Dynamic UI Effects:** Incorporates animations, rotations, and scaling for interactive and visually appealing gameplay.
+- **Score Tracking:** Keeps track of the user's score.
+- **Responsive Design:** Consistent and adaptive user interface.
+- **Dynamic UI Effects:** Animations, rotations, and scaling for interactive gameplay.
 
 ### Learning Highlights
 
-This project introduces core SwiftUI concepts, including:
 - VoiceOver Accessibility
 - Alerts
 
