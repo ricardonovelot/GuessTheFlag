@@ -48,7 +48,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 <td width="5000" align="center">
 <video src="https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/0dcd165e-b3a5-4575-b631-018233fd30f3" width="300" controls title="Accessibility"></video>
 <br>
-<small>Turn on sound for the best experience</small>
+Turn on sound
 </td>
 </tr>
 </table>
