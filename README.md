@@ -41,19 +41,10 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 </tr>
 </table>
 
-<h2>Video Previews</h2>
-<div>
-  <span style="display:inline-block; width:300px; text-align:center;">
-    <video src="https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/0dcd165e-b3a5-4575-b631-018233fd30f3" width="300" controls title="Accessibility"></video>
-    <br>
-    Turn on sound
-  </span>
-  <span style="display:inline-block; width:300px; text-align:center;">
-    <video src="https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/d777d56b-ea83-4124-88e0-f2aa49acd74d" width="300" controls title="Accessibility"></video>
-    <br>
-  </span>
-</div>
-
+<p align="center">
+  <video src="https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/0dcd165e-b3a5-4575-b631-018233fd30f3" width="300" controls title="Accessibility"></video>
+  <video src="https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/d777d56b-ea83-4124-88e0-f2aa49acd74d" width="300" controls title="Accessibility"></video>
+</p>
 
 
 
