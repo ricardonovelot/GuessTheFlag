@@ -50,7 +50,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 <td width="2500" align="center">
 <video src="https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/0dcd165e-b3a5-4575-b631-018233fd30f3" width="300" controls title="Accessibility"></video>
 <br>
-Turn on sound
+Please turn on sound
 </td>
 <td width="2500" align="center">
 <video src="https://github.com/ricardonovelot/GuessTheFlag/assets/84286086/d777d56b-ea83-4124-88e0-f2aa49acd74d" width="300" controls title="Accessibility"></video>
